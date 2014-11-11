@@ -1,0 +1,46 @@
+Back Ground
+
+-Dans le royaume des "Niom-Niom", le roi se trouve être atteint d'une maladie guerrissable seulement grace au "Marshmallow doré et magique de la montagne de glace, de sucrerie et de gourmandise".
+-Groom devra parcourir 3 mondes différent: 
+
+	- Forêt de canne a sucre
+		- 
+		-
+		-
+		-
+		-
+	- Nuages de Barbe a papa
+		-
+		-
+		-
+		-
+		-
+	- Montagne de glace, sucreries et gourmandise
+		-
+		-
+		-
+		-
+		-
+
+Block note : Ile flottante
+
+
+Game-Play : Groom se déplace d'un bout a l'autre de la map, le but du jeu est de l'accompagner dans son aventure.
+
+Liste des obstacle type: 
+	-Clicker sur un enemie
+	-Protéger d'une projection
+	-Création de pont
+	-Couper une corde pour déployer une aide.
+	-Utilisation de sort.
+	-Destruction du décord pour ouvrir un passage ou un passage secret
+	-feu (avec des "vie", il les reprend avec le temps)
+
+Autre ( Puzzle )
+	-Le personnage peut s'arreter, le joueur devra alors résoudre un casse tete / enigme pour faire avancer le personnage (Le débloquer)
+
+
+Mondes 
+	1-1 : 15 phases
+		p1 	: le personnage ce déplace
+		p2	: 
