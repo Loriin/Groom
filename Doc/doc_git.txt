@@ -1,0 +1,86 @@
+/!\ 	La présente documentation regroupe le strict minimum à savoir.
+	Elle est libre d'être modifiée.
+	Pour plus de détails, consulter la doc officielle
+		-> En : http://git-scm.com/book/en/v1/ (+ complète)
+		-> Fr : http://git-scm.com/book/fr/v1/ (pour les anglophobes)
+
+PATRON		SIGNIFICATION
+-------------------------------------------
+* 	: 	un ou plusieurs caractères;
+[abc] 	:	un des trois caractères listés entre crochets, ici a, b ou c.
+?	:	un unique caractère
+[0-9]	:	un caractère dans l'intervalle des deux caractères indiqués, ici de 0 à 9
+
+
+ABREGE		ANGLAIS			FRANCAIS
+---------------------------------------------------
+Repo	:	repository	=	repertoire
+File	:	file		=	fichier
+Dir	:	directory	=	dossier	
+
+
+COMMANDE				ROLE/EXPLICATION						Exemple
+------------------------------------------------------------------------------------------------------------------------------------------
+$ git clone [url]			- Copie un repo existant				- git clone https://github.com/kira100/Groom.git
+
+$ git init				- Créer un repo git		
+
+$ git add [filename] [dirname]		- Ajoute/indexe les dossiers/fichiers au repo		- git add monfichier1 monfichier2 mondossiertoto
+
+$ git status				- Permet de voir l'état des fichiers
+
+$ git diff 				- Montre ce qui a été modifié, mais pas encore indexé
+
+$ git diff --cached			- Montre ce qui a été indexé jusque maintenant
+
+$ git commit
+
+$ git rm [filename]			- Supprime le fichier du repo git			- git rm monfichier
+
+$ git log				- Affiche l'historique des commits
+					- '++' : Mots ajoutés					
+					- '--' : Mots effacés
+
+$ git log -p -2				- '-p' : différences entre chaque validation
+					- '-2' : Limite la sortie de la commande aux 2 entrées les plus récentes 
+
+-------------------------------------------------
+En règle générale, on utilise la combo suivante :
+
+git status
+	pour vérifier que l'on a bien tout indexé. Si ce n'est pas le cas,
+git add
+	pour ajouter les fichiers non indexés
+git commit -a -m "Mon message explicite indiquant les changements"
+	pour commit tous les fichiers indexés (avec l'option "-a" (all), "-m" permettant de spécifier le mssg directement en ligne de cmd). 
+git pull
+	pour mettre à jour le repos
+git push
+	pour envoyer les commits
+--------------------------------------------------
+
+Le fichier .gitignore : 
+présent à la racine du projet, contient les fichiers à ne pas commit, cela se fait alors automatiquement :
+Les règles de constructions des patrons à palcer dans le fichier .gitignore : 
+	-> Les lignes vides ou commençant par # sont ignorées
+	-> Les patrons standards sont utilisables
+	-> Si le patron se termine par un '/', il indique un repertoire
+	-> S'il commence par '!', il indique des fichiers à inclure malgré les autres règles
+
+	------------------------------------------------------------
+	ex de .gitignore :
+	# un commentaire, cette ligne est ignorée
+	# pas de fichier .a
+	*.a
+	# mais suivre lib.a malgré la règle précédente
+	!lib.a
+	# ignorer uniquement le fichier TODO à la racine du projet
+	/TODO
+	# ignorer tous les fichiers dans le répertoire build
+	build/
+	# ignorer doc/notes.txt, mais pas doc/server/arch.txt
+	doc/*.txt
+	# ignorer tous les fichiers .txt sous le répertoire doc/
+	doc/**/*.txt
+	------------------------------------------------------------
+

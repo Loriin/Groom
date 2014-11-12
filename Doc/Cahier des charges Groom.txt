@@ -28,7 +28,7 @@ Block note : Ile flottante
 Game-Play : Groom se déplace d'un bout a l'autre de la map, le but du jeu est de l'accompagner dans son aventure.
 
 Liste des obstacle type: 
-	-Clicker sur un enemie
+	-Clicker sur un ennemie
 	-Protéger d'une projection
 	-Création de pont
 	-Couper une corde pour déployer une aide.
