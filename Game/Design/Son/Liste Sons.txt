@@ -1,0 +1,5 @@
+1- Marche / course
+2- Saut
+3- Aterissage
+4- Mort du personnage
+5- Fin du niveau
