@@ -17,3 +17,7 @@ Parce que moi à votre place ... j'aurais les boules.
 - Le joueur prend donc la place de cette divinité qui controle les candies.
 - Son but sera de parcourir les niveaux pour aller le plus loin possible, collecter de nouveaux pouvoirs, et pouvoir a terme compléter les niveaux, découvrir tous les secrets...
 - A terme tuer les boss de fin de niveau.
+- On découpera surement les lvls en monde, chaque monde se rapportant à une divinité donc un élèment et tous un univers musical
+ et graphique différent (monde de feu, d'eau ...)
+- Deux ou trois niveaux par monde ?
+- les niveaux finaux des mondes seront ceux contenant les boss.
