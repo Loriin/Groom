@@ -17,9 +17,11 @@ Alexandre	14/11/2014	Mise en place d'un premier cahier des charge au projet "Gro
 
 <----->	Semaine du 17/11/2014 au 24/11/2014	<----->
 
-Jaime		18/11/2014	Création d'une interface de jeu + Menu principale	
-Jaime		19/11/2014	Liste des différentes action possible par le joueur / personnage	
-Jaime		20/11/2014	Création de 10 mécanismes (Pieges) différents	
+Jaime		17/11/2014	Donner les prmiere mécanique de jeu, comment s'enchaine un "Monde" , comment le joueur intéragit avec le personnage. 	(.)
+Jaime		17/11/2014	Création d'un premier "Level". Mécanique complête, design complet, enchainement des évènement complet.	(++)
+Jaime		24/11/2014	Création d'une interface de jeu + Menu principale	
+Jaime		19/11/2014	Liste des différentes action possible par le joueur / personnage (.)	
+Jaime		20/11/2014	Création de 10 mécanismes (Pieges) différents	(.)
 
 Denise		24/11/2014	Correction orthographes / syntaxe de la totalité du Repo	
 Denise		18/11/2014	création des premiers sons(Voir suivie Design/sons/ 1 à 5)	
