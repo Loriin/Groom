@@ -1,8 +1,6 @@
 Exécuté par	DeadLine	Description de tâche	
 
 Jaime		13/11/2014	Rédaction d'un Background Complet donnant une ligne diréctive au projet. Quelle est la place du joueur dans le jeu, ce qu'il représente… Quel est le but du personnage, qui il est, et comment arrive t'il à ses fins ?	
-Jaime		14/11/2014	Donner les premières mécaniques de jeu, comment s'enchaine un "Monde" , comment le joueur intéragit avec le personnage. 	
-Jaime		16/11/2014	Création d'un premier "Level". Mécanique complet, design complet, enchainement des évènements complets.	
 
 Céline		14/11/2014	Création d'un écran titre. Personnage complet en action avec un décord. Le tous en 1024 * 768	
 
