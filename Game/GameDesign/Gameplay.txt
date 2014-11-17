@@ -1,0 +1,21 @@
+Principe du jeu :
+Le joueur de controle pas directement Groom le personnage marshmalow du jeu.
+Il intéragit avec son environement pour influencer le personage, le sauver, lui faire arreter le niveau.
+Le joueur peut "équiper" cinq "pouvoir" à la fois pour agir avec l'environement d'un niveau.
+Le but étant d'avec ces cinqs pouvoir, aller le plus loin ou reussir à acquérir les bonus ou nouveaux pouvoirs caché dans le niveau.
+Il peut équiper moins de cinqs pouvoir.
+S'il se donne par exemple aprés avoir acqui le "caramel control" il obtient le succés "Faut pas me chauffer" et gagne deux pouvoirs "épèe du caramel" et "Sculpture sucré"
+qui respectivement permettent, de couper certain objet sur les maps (Par exemple les arbres qui bloquent le passage Niveau forêt) et de tracer des formes avec du caramel.
+(Pour contruire un pont pour laisser le personage passer ...).
+Dés le départ le joueur à le pouvoir rappel du champion, qui cree un vortex sur un endroit de la map choisit par le joueur, si le personage arrive sur ce vortex il finis
+le niveau et garde les objets, pouvoirs, succés qu'il a acquis.
+Petit à petit en jouant avec les combinations de pouvoir il pourra fouiller et finir entiérement les niveaux.
+
+Niveau 1 enfer du feu :
+Groom avance vers la droite, il se déplace par saut. Il arrive sur un pont en caramel (comme ceux pouvant être tracé par sculpture sucrée Voir le 
+fichier Pouvoir/ dans Game/) il le traverse arrive sur le caramel control, il gagne les récompenses liés.
+Si je joueur ne met pas une vortex devant le personnage il avance jusque sous un jet de lave. (Qu'il pourrais bloquer en ayant "le bouclier de pierre"  Voir fichier Pouvoir/)
+Si la lave touche Groom il (fond) ? en tous cas meurt et les objets ramassé ne sont pas sauvegardé. 
+S'il passe le jet de lave il tombe plus loin sur un mur avec une porte.
+
+Nveau 1 foret :
