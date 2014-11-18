@@ -21,9 +21,6 @@ Jaime		24/11/2014	Création d'une interface de jeu + Menu principale
 Jaime		19/11/2014	Liste des différentes action possible par le joueur / personnage (.)	
 Jaime		20/11/2014	Création de 10 mécanismes (Pieges) différents	(.)
 
-Denise		18/11/2014	création des premiers sons (Voir suivie Design/sons/ 1 à 5)	
-Denise		24/11/2014	Création de la premiere musique d'ambience : menu principal	
-
 Céline		17/11/2014	Création du premier fond (Voir suivie Design/fond/monde1)	
 Céline		18/11/2014	Création des premiers décors de monde (Voir suivie Design/decor/ 1 à 10)	
 Céline		24/11/2014	Création du premier sprite (Personnage qui marche vers la droite => 10 IMAGES environ)	
