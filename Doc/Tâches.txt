@@ -1,28 +1,28 @@
 Exécuté par	DeadLine	Description de tâche	
 
-Jaime		13/11/2014	Rédaction d'un Background Complet donnant une ligne diréctive au projet. Quelle est la place du joueur dans le jeu, ce qu'il représente… Quel est le but du personnage, qui il est, et comment arrive t'il à ses fins ?	
+Jaime		13/11/2014	Rédaction d'un Background Complet donnant une ligne directive au projet. Quelle est la place du joueur dans le jeu, ce qu'il représente… Quel est le but du personnage, qui il est, et comment arrive t'il à ses fins ?	
 
-Céline		14/11/2014	Création d'un écran titre. Personnage complet en action avec un décord. Le tous en 1024 * 768	
+Céline		14/11/2014	Création d'un écran titre. Personnage complet en action avec un décor. Le tous en 1024 * 768	
 
 Denise		13/11/2014	Création d'une doc GIT (Push, importation exportation ajout)	
-Denise		13/11/2014	Création d'un Fichier de contacte regroupant les information personnels de chacun des membre du groupe	
+Denise		13/11/2014	Création d'un Fichier de contact regroupant les information personnelles de chacun des membres du groupe	
 Denise		14/11/2014	Composition / Recherche d'une musique décrivant l'univer du jeu	
 
-Alexandre	12/11/2014	Création d'un premier moteur phisique dans le jeu	
-Alexandre	13/11/2014	Mise en place d'une architecture de travail au sein du groupe de dévelopement	
-Alexandre	12/11/2014	Création de l'emploi du temps de travail des dévelopeur.	
+Alexandre	12/11/2014	Création d'un premier moteur physique dans le jeu	
+Alexandre	13/11/2014	Mise en place d'une architecture de travail au sein du groupe de développement	
+Alexandre	12/11/2014	Création de l'emploi du temps de travail des développeurs.	
 Alexandre	14/11/2014	Mise en place d'un premier cahier des charge au projet "Groom"	
 
 <----->	Semaine du 17/11/2014 au 24/11/2014	<----->
 
-Jaime		17/11/2014	Donner les prmiere mécanique de jeu, comment s'enchaine un "Monde" , comment le joueur intéragit avec le personnage. 	(.)
-Jaime		17/11/2014	Création d'un premier "Level". Mécanique complête, design complet, enchainement des évènement complet.	(++)
+Jaime		17/11/2014	Donner les premières mécaniques de jeu, comment s'enchaine un "Monde" , comment le joueur intéragit avec le personnage. 	(.)
+Jaime		17/11/2014	Création d'un premier "Level". Mécanique complète, design complet, enchainement des évènements complets.	(++)
 Jaime		24/11/2014	Création d'une interface de jeu + Menu principale	
 Jaime		19/11/2014	Liste des différentes action possible par le joueur / personnage (.)	
 Jaime		20/11/2014	Création de 10 mécanismes (Pieges) différents	(.)
 
-Denise		24/11/2014	Correction orthographes / syntaxe de la totalité du Repo	
-Denise		18/11/2014	création des premiers sons(Voir suivie Design/sons/ 1 à 5)	
+Denise		24/11/2014	Correction orthographe / syntaxe de la totalité du Repo	
+Denise		18/11/2014	création des premiers sons (Voir suivie Design/sons/ 1 à 5)	
 Denise		24/11/2014	Création de la premiere musique d'ambience : menu principal	
 
 Céline		17/11/2014	Création du premier fond (Voir suivie Design/fond/monde1)	

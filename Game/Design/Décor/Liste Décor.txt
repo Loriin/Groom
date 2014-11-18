@@ -2,7 +2,7 @@ Décor premier niveau :
 
 0	Pont caramel		960*320
 1	Vortex			500*500		Sprite vortex 5 images
-2	Jet de lave		500*X		Le motif ce répète verticalement + sprite 5 images
+2	Jet de lave		500*X		Le motif se répète verticalement + sprite 5 images
 3	Bouclier de pierre	500*500		
 4	Porte en pierre		320*960		
-5	Mur en pierre		320*320		Le motif ce répète verticalement
+5	Mur en pierre		320*320		Le motif se répète verticalement
