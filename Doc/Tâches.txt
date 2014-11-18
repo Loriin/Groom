@@ -33,4 +33,6 @@ Alexandre	18/11/2014	Renseignement sur les prés-requis pour la création d'une st
 Alexandre	24/11/2014	Recrutement : 2 Graphistes + 1 Sound désigner	
 Alexandre	24/11/2014	Organisation de la réunion 0.1 et rédaction du fichier "Reunion.txt" Expliquant le but le déroulement des réunion (Fréquence de 1 réunion toute les 2 semaines)	
 
+Nicolas	        24/11/2014      Correction des fautes d'orthographe
+
 <----->	Semaine du 25/11/2014 au 1/12/2014	<----->
