@@ -1,0 +1,20 @@
+Liste des pouvoirs :
+
+	La divine barbe à papa :
+
+	 - Lieu de découverte : Niveau test "Enfer du débutant".
+	 - Intéraction avec l'écran nécéssaire : (Cliquer déplacer)
+	 - Résultat : Tracage à l'écran d'une forme définis par le tracé du le joueur.
+	 - Détail : La forme tracé est soumis à la gravité, elle descend "lentement" comme de la barbe à Papa.
+	            Elle peut donc changer d'angle d'orientation (exemple on "dessine" une ligne droite, en tombant elle rencontre le sol penché, elle suit
+		    la pente du sol. Voir précision avec Dos Santos)		 
+
+	Réglissidure :
+
+	 - Lieu de découverte : Niveau test "C'est la jungle"	 
+	 - Intéraction avec l'écran nécéssaire : (cliquer déplacer)
+	 - Résultat : Découpage des objets et/ou disparition ayant la classification "manuellement destructible".
+	 - Détail : Le traçage laisse un effet "tranché par une épée", à la maniere d'un fruit Ninja.
+	            Le traçage emet un son de découpe en cas de réussite et un autre son s'il ne marche pas sur l'élement. (Définir avec le SoundDesigner)
+
+	

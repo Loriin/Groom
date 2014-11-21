@@ -1,23 +1,25 @@
-- Dialogue cinématique de début de jeu :
+ -Dialogue cinématique de début de jeu :
 
 *Voix du narrateur*
 
-Pour comprendre l'histoire dans l'ensemble, je me dois de tout vous expliquer depuis le début.
-Même si en somme toute, les faits sont assez flou ...
-Ce monde est dicté par des divinités qui contrôlent, chacune, un élement primordial.
-La terre, le feu, l'air, l'eau, autant de talents assez marrant à contrôler pour briller en société.
-Il y a donc quatres divinités qui dirigent ce monde. Le problème c'est que non, il y a aussi vous.
-Mais vraisemblablement vous étiez absent quand on a distribué les différentes fonctions divines, parce que vous ...
-Vous pouvez seulement contrôlez les ... bonbons ...
-Et rien ne sers d'aller pleurer aux autres dieux, personne ne vous prendra en compte avec ce ridicule don ..
-La bonne nouvelle c'est que vous avez ce truc que vous pouvez reussir à controler *L'écran fait découvrir le personnage marshmallow*
-Peut-être avec un peu de pratique pourriez-vous lui faire laver cette affront dont vous êtes victime.
-Parce que moi à votre place ... j'aurais les boules.
+ Pour comprendre l'histoire dans l'ensemble, je me dois de tout vous expliquer depuis le début.
+ Même si en somme toute, les faits sont assez flou ...
+ Ce monde est dicté par des divinités qui contrôlent, chacune, un élement primordial.
+ La terre, le feu, l'air, l'eau, autant de talents assez marrant à contrôler pour briller en société.
+ Il y a donc quatres divinités qui dirigent ce monde. Le problème c'est que non, il y a aussi vous.
+ Mais vraisemblablement vous étiez absent quand on a distribué les différentes fonctions divines, parce que vous ...
+ Vous pouvez seulement contrôlez les ... bonbons ...
+ Et encore les autres divinités n'ont pas hésité à vous prendre certain de vos hum ... divins pouvoirs ...
+ La bonne nouvelle c'est que vous avez ce truc que vous pouvez reussir à controler *L'écran fait découvrir le personnage marshmallow*
+ Peut-être avec un peu de pratique pourriez-vous lui faire laver cette affront dont vous êtes victime.
+ Parce que moi à votre place ... j'aurais les boules.
 
-- Le joueur prend donc la place de cette divinité qui contrôle les candies.
-- Son but sera de parcourir les niveaux pour aller le plus loin possible, collecter de nouveaux pouvoirs, et pouvoir à terme compléter les niveaux, découvrir tous les secrets...
-- A terme tuer les boss de fin de niveau.
-- On découpera surement les levels en monde, chaque monde se rapportant à une divinité donc un élèment et tout un univers musical
- et graphique différent (monde de feu, d'eau ...)
-- Deux ou trois niveaux par monde ?
-- les niveaux finaux des mondes seront ceux contenant les boss.
+ -Résumé :
+
+  - Le joueur prend donc la place de cette divinité qui contrôle les candies.
+  - Son but sera de parcourir les niveaux pour aller le plus loin possible, collecter de nouveaux pouvoirs, et pouvoir à terme compléter les niveaux, découvrir tous les secrets...
+  - A terme tuer les boss de fin de niveau.
+  - On découpera surement les levels en monde, chaque monde se rapportant à une divinité donc un élèment et tout un univers musical
+    et graphique différent (monde de feu, d'eau ...)
+  - ? Deux ou trois niveaux par monde ?
+  - ? les niveaux finaux des mondes seront ceux contenant les boss ?
