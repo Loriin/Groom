@@ -1,0 +1,20 @@
+Liste des différents intéractions possible entre le joueur et l'écran :
+
+Le joueur peut :
+
+Faire un clic sur l'écran pour :
+ - Selectionner.
+ - Placer.
+ 
+Faire un cliquer déplacer :
+ - Pour couper un objet qui est de la catégorie manuellement destructible.
+ - Creer un objet (ex : du pouvoir Caramel)
+ - Rétrécir le personnage (avec le bon pouvoir) (Cliquer déplacer vers le bas apres selection du pouvoir)
+
+Faire plusieur clics simulatanées sur l'écran :
+ - Obtenir un resultat (ex : le pouvoir "A determiner" qui fait pousser un "a determiner")
+
+
+... Liste a completer mais bonne base de travail
+
+
