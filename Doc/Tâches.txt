@@ -32,4 +32,12 @@ Alexandre	24/11/2014	Organisation de la réunion 0.1 et rédaction du fichier "Reu
 Nicolas	        24/11/2014      Correction des fautes d'orthographe
 Nicolas	        24/11/2014      Création du Business Plan
 
-<----->	Semaine du 25/11/2014 au 1/12/2014	<----->
+<----->	Nouvelles Tâches				<----->
+
+Jaime		01/12/2014	Création d'un Level complet. Premier niveau du jeu. Le rendu doit etre fais numériquement sur une grille
+
+Denise		22/12/2014	Premiere version du site Groom: Tâches fonctionnel, site coté utilisatur fonctionnel (hors FAQ et NOUS CONTACTER)
+
+Alexandre	15/12/2014	Création du premiere Level test selon Sprite disponible
+
+Nicolas	        01/12/2014      Compte rendu de la réunion du 24/11/2014
