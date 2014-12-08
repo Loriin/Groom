@@ -1,29 +1,51 @@
-RECAP REUNION 24/11/2014
 
-CE QUI A ETE FAIT, L’AVANCEE DU PROJET
-
-
-Le Game design progresse bien 
-Il faut trouver quelqu’un en dessin
-Sous 3 semaines, il serait possible de jouer sous Android
-Jaime continue le Game design donc donne du travail aux Sound designer (Rémi, Céline)
-
-RDV recrutement : Céline pas de date prévue, Rémi ce weekend
-Pas de dessin, gros problème, il nous faut un graphiste
-Recrutement : Rémi, Céline, Diane et Adrien
-Adrien : level design -> Jaime lui donne des éléments de décor, Adrien crée le level, chaque level est original, et la difficulté est croissante
-Diane : graphisme -> interface, logo, touches
-Ils débuteraient vers fin décembre début janvier
-
-Denise : site internet de groom (bandeau -> dl du jeu, FAQ, « nous contacter », + vidéo de présentation du jeu, commentaires des utilisateurs sur le site ou qui se co depuis fb, utilisateur normal du jeu logo à gauche, admin à droite, compte admin donne l’accès au calendrier qui comporte les tâches du jeu, ceci pour une meilleure sécurité, meilleure ergonomie, on pourra prévoir des évènements entre les gens du projet afin de souder les gens du projet et ainsi avoir une bonne ambiance dans l’équipe)
-Nicolas : pas encore de distribution, donc il s’occupe de gestion, + par exemple gérer la FAQ du site par la suite
-Adrien : Il pourra aider pour la gestion du site internet
-Gros problème : il faut absolument trouver un graphiste, c’est la PRIORITE ABSOLUE
-
-DEPENSES
+Réunion du 24/11/2014
 
 
-200 € environ = investissement à long terme, 50 % -> tlm, 25 % -> caisse, 25% -> investisseurs
-Les recettes seront divisées ainsi : 50% divisées entre toutes les personnes du projet
-				     25% iront dans la caisse de la start-up
-				     25% divisées entre les investisseurs
+
+Membres présents : Denise, Jaime, Alexandre, Nicolas
+Dirigée par : Alexandre
+Récapitulatif : Nicolas
+Réunion retardée
+
+
+
+Le projet Groom
+
+
+	L’avancée du projet
+
+Le game design avance de manière satisfaisante. De plus, sous 3 semaines, il serait possible de jouer sous Android ou Windows.
+ Jaime qui s’occupe du game design va donner suffisamment de travail aux prochains Sound designer, Rémi et Céline.
+
+	Le recrutement
+
+Des recrutements sont prévus : Céline et Rémi qui seront deux nouveaux Sound designer. Il n’y a pas de date prévue pour un rendez-vous avec Céline, et un rendez-vous avec Rémi est prévue cette semaine.
+De plus, d’autres personnes sont envisagées : Adrien et Diane. Adrien s’occuperait du level design. En fait, Jaime lui donnerait les éléments du décor pour qu’Adrien créée le level.
+Chaque level est original, et la difficulté est croissante. Diane s’occuperait du graphisme de l’interface, donc principalement du graphisme des logos, des touches interactives… 
+Ils débuteraient vers fin décembre début janvier.
+
+	Le site internet
+
+Le site internet de Groom contiendrait un bandeau qui proposerait un lien pour télécharger le jeu, une section « FAQ », une autre « nous contacter ». 
+Sur la page principale, une vidéo de présentation du jeu sera disponible. 
+Toujours sur la page principale, en bas, on pourra lire les commentaires des utilisateurs qui se sont connectés sur le site ou via facebook. 
+Un utilisateur lambda aurait son logo à gauche tandis qu’un administrateur aura son logo à droite. 
+Un compte administrateur donnera accès à  un calendrier qui définira les différentes tâches des membres du projet, ceci pour une meilleure sécurité, une meilleure ergonomie. 
+De plus, il faudrait organiser des évènements entre les membres du groupe afin de souder les différents membres et ainsi avoir une bonne ambiance dans l’équipe.
+
+	Les ressources humaines
+
+Comme il n’y a pas encore de produit à vendre à proprement dire, il n’y a pas de distribution.
+Ainsi, Nicolas s’occupe plus de la gestion, puis pourrait par exemple s’occuper de gérer la FAQ du site. Adrien pourrait aider pour la gestion du site aussi.
+
+	Les difficultés rencontrées
+
+Il nous manque un graphiste, tous nos dessins sont actuellement éphémères.
+C’est la priorité de trouver un graphiste car plus notre travail va avancer, plus le manque de dessin se fera sentir. 
+De plus, il ne faut pas recruter un graphiste trop tard pour qu’il n’ait pas une charge de travail trop lourde dès le début.
+
+	Les dépenses
+
+Les dépenses prévues sont pour de l’ordre de 200€. 
+Les recettes seront divisées ainsi : 50% divisées entre toutes les personnes du projet, 25% iront dans la caisse de la start-up, 25% divisées entre les investisseurs.
