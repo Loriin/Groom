@@ -1,0 +1,120 @@
+Réunion du 08/12/2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Présent : Nicolas, Denise, Alexandre, Rémi.
+Absent	: Jaime, Cécile.
+
+Dirigé par : Alexandre
+Récap 	: Alexandre
+Réunion décalé à 21 :40.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projet en cours.
+
+
+
+Avancement du Projet Groom :
+Groom avance petit à petit. Un premier rendu est fini à 80% et tourne sous Android et Windows.
+Le premier niveau de test est terminé. Les dessins sont inexistants, idem pour la musique.
+Les trois premiers pouvoirs (Barbe à Papa, Cut et Vortex) sont opérationnels. L’AI de Groom est Basique mais permet à la créature de se déplacer dans le monde. La physique du jeu est presque opérationnelle et les attentes du Game designer sont respectées (Mis à part la Barbe à Papa qui est à modifier).
+
+Avancement du Site Groom :
+Le site a pris du retard pour deux raisons : 
+•	Un manque de temps consacré au projet.
+•	Un changement d’environnement de travail. *
+
+La Dead Line du site groom est alors prolongé au 31 Décembre 2014.
+
+Avant-Gout du projet DS (Dragon Slayer)  :
+Dragon Slayer est le futur projet du groupe PlayToWin. Jeu Multi-joueurs porté sur le web, le joueur incarnera un héros dont le but est de terrasser des créatures plus puissantes les unes que les autres afin d’augmenter ca puissance et monter son renom. Avec des amis ou bien avec les joueurs du monde entier, tous utilisateurs des services PlayToWin pourront entrer dans l’aventure de DragonSlayer, entrer dans les « Room » et amasser de l’or.
+Un Cahier des charges détaillées sera Bientôt disponible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gestion des ressources Humaines.
+
+
+
+Sound Design :
+Le Sound Désign de concerne pour le moment que le projet Groom.
+L’avancement respectif des deux  Sound désigners est le suivant :
+•	Rémi :
+•	Céline :
+
+
+Game Design :
+Pour le moment, seul un niveau a été achevé. Cependant, il n’est pas exploitable par l’entièreté des membres travaillant le projet. Pour ce faire, tous niveau terminé devront être présenté de la façon suivante :
+•	Un Schéma quadriller (A-Z verticalement, 1-++ horizontalement). Représentant de monde. (Chaque case faisant 32*32 pixels.
+•	Une description au format .txt du monde et de ces mécaniques
+•	Une description au format .txt des sons joués lors du niveau (ou des ton)
+•	Une description au format .txt des images et fond du monde.
+Pour avancer le mieux possible dans la confection des niveaux du jeu Groom, il sera attendu des Game/Level Design, de faire 2 niveaux complets toutes les trois semaines.
+
+
+Programmation :
+La création d’un monde (selon le schéma du Game/level designer) se fera dans un délai de deux semaines.
+Si le monde n’utilise que des ressources déjà exploité, il devra être fait deux fois plus vite, soit en une semaine.
+
+
+Commercial et étude de marché :
+Pour le moment, Le groupe PlayToWin ne nécessite pas à proprement parlé de commercial. Cependant, il lui est très profitable de savoir ce que font les concurrent. C’est pour cela qu’une fiche produit sera rédigé pour les applications du GooglePlay pouvant être similaire à Groom.
