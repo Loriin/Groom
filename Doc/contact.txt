@@ -6,3 +6,5 @@ REGNAULT	Nicolas		06 19 20 39 31	nic.regnault@hotmail.fr		Commercial
 DOS SANTOS	Jaime		07 86 84 50 95	jaime.dossantos@epitech.eu	Game designer
 RAHARIEVELO	Céline 		07.61.45.56.98 	celine.raharivelo@laposte.net	Sound designer
 PIOLI		Rémi		06.49.82.86.76	pioliremi@gmail.com		Sound designer
+LEMONT		Jérémy 		06.31.72.70.83	jerem-lem@hotmail.fr		Web Master
+
