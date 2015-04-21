@@ -4,7 +4,5 @@ LORIN		Alexandre	06 26 88 90 18	alexandre.lorin@epitech.eu	Chef de projet
 NGUYEN		Denise		06 52 28 05 22	denise.nguyen@epitech.eu	Web designer
 REGNAULT	Nicolas		06 19 20 39 31	nic.regnault@hotmail.fr		Commercial
 DOS SANTOS	Jaime		07 86 84 50 95	jaime.dossantos@epitech.eu	Game designer
-RAHARIEVELO	Céline 		07.61.45.56.98 	celine.raharivelo@laposte.net	Sound designer
-PIOLI		Rémi		06.49.82.86.76	pioliremi@gmail.com		Sound designer
-LEMONT		Jérémy 		06.31.72.70.83	jerem-lem@hotmail.fr		Web Master
-
+Contini		Adrien		06 35 58 69 47  adriencontini@gmail.com		Level Designer
+Bellavance	Diane		06 69 72 07 28	diane@votk.com			Graphiste 2D
